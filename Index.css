@@ -1,0 +1,1329 @@
+
+.nav{
+    position: relative;
+    position: fixed;
+    display: flex;
+    margin-top: 8px;
+    margin-left: 40%;
+    z-index: 9999;
+   
+}
+.da{
+    position: fixed;
+    width: 1247px;
+    background-color: rgb(3, 3, 59);
+    height: 75px;
+    margin-top: -430px;
+    z-index: 9999;
+    
+}
+.nav>ul{
+list-style: none;
+display: flex;
+margin-left: 200px;
+
+}
+.nav>ul>li{
+    
+    font-weight: 300px;
+    padding-left: 40px;
+    font-size: 22px;
+    color: white;
+}  
+.nav>img{
+margin-left: -450px;
+}
+    
+
+.bg{
+    
+    background-image: url(../asset/banner-1\ \(2\).jpg);
+    
+    height: 900px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bg1{
+    
+    
+    background-image: url(../asset/house.png);
+    
+    height: 700px;
+    background-repeat: no-repeat;
+    margin-top: -482px;
+    margin-left:  65%;
+    
+}
+.good{
+    padding-left: 12%;
+    padding-top: 30%;
+    font-size: 20px;
+    color: white;
+}
+.good>p{
+    font-family: 'Dancing Script', cursive;
+    font-size: 22px;
+}
+.good>a{
+    font-family: 'Permanent Marker', cursive;
+     font-size: 15px;
+    color: white;
+    text-decoration: none;
+    
+    
+}
+
+.text-stroke{ 
+-webkit-text-stroke-width: 0.5px;
+
+-webkit-text-stroke-color: white;
+color: transparent;
+}
+
+.good>span{
+    font-weight: 40px;
+    font-size: 170px;
+}
+.good>h4{
+margin-top: -410px;
+letter-spacing: 12px;
+}
+
+.bg2{
+    background-image: url(../asset/man.png);
+    height: 750px;
+    background-repeat: no-repeat;
+    margin-top: -970px;
+    margin-left: 52%;
+}
+ 
+.kk{
+    
+    padding-left: 13%;
+    font-size: 20px;
+    margin-top: -30px;
+    color: white;
+    letter-spacing: 12px; 
+    
+    
+}
+.sec{
+    background-color: rgb(2, 2, 54);
+    height: 850px;
+    
+}
+.sec1>img{
+    padding-left: 40px;
+}
+.shape{
+    margin-top: -247px;
+    padding-left: 155px;
+}
+.company{
+    margin-top: -52%;
+    padding-left: 425px;
+    color: white;
+}
+.company>h5{
+    font-family: 'Permanent Marker', cursive;
+    color: red;
+    margin-top: 30px;
+}
+.company>h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 41px;
+    margin-left: -35px;
+    margin-top: -4px;
+  
+}
+.company>h2{
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    margin-left: -27px;
+    padding-top: px;
+}
+.company>p{
+    font-family: 'Dancing Script', cursive;
+    padding-top: 22px;
+    margin-left: -27px;
+    font-size: 18px;
+}
+.author{
+
+    padding-left: 32%;
+    padding-top: 50px;
+}
+.author>h1{
+    font-family: 'Permanent Marker', cursive;
+    color: white;
+    padding-left: 13%;
+    margin-top: -10%;
+    font-size: 20px;
+}
+.author>h3{
+    font-family: 'Permanent Marker', cursive;
+    color: white;
+    padding-left: 13%;
+    margin-top: -3px;
+}
+.sin{
+padding-left: 57%;
+margin-top: -7%;
+}
+.sec2{
+    margin-top: -30px;
+    height: 1700px;
+    background-color: whitesmoke;
+}
+
+.sec2>h4{
+    font-style: oblique;
+    padding-top: 100px;
+    color: red;
+    padding-left: 6%;
+}
+.sec2>h1{
+    font-style: oblique;
+    padding-left: 30px;
+    font-size: 50px;
+    margin-top:  -1%;
+}
+.sec2>p{
+    font-style: oblique;
+padding-left: 30px;
+margin-top: -1%;
+font-size: 19px;
+}
+.bg-colour{
+    width: 370px;
+    height: 350px;
+    background-color: white;
+    margin-left: 30px;
+    margin-top: 5%;
+    border-radius: 10px;
+}
+.bg-colour{
+    background: linear-gradient(white, white 50%, blue 50%, rgb(3, 3, 77) 50%);
+    background-size: 100% 200%;
+    transition: background 1s;
+}
+.bg-colour:hover{
+    background-position: 0% -100%;
+   color: white;
+}
+.bg-colour>h2{
+    
+
+padding-left: 40px;
+font-size: 25px;
+
+}
+.building>img{
+    height: 70px;
+    margin-left: 40px;
+    margin-top: 40px;
+
+}
+.bg-colour>img{
+    width: 340px;
+    padding-left: 15px;
+    height: 200px;
+    
+}
+.bg-colour2{
+    width: 370px;
+    height: 350px;
+    background-color: white;
+    margin-left: 35%;
+    margin-top: -350px;
+    border-radius: 10px;
+}
+.ar>img{
+    height: 70px;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.bg-colour2{
+    background: linear-gradient(white, white 50%, blue 50%, rgb(3, 3, 77) 50%);
+    background-size: 100% 200%;
+    transition: background 1s;
+}
+.bg-colour2:hover{
+    background-position: 0% -100%;
+   color: white;
+}
+.bg-colour2>h2{
+    
+    
+    padding-left: 40px;
+    font-size: 25px;
+}
+.bg-colour2>img{
+    width: 340px;
+    padding-left: 15px;
+    height: 200px;
+}
+.bg-colour3{
+    width: 350px;
+    height: 350px;
+    background-color: white;
+    margin-left: 68%;
+    margin-top: -350px;
+    border-radius: 10px;
+}
+.bk>img{
+    height: 70px;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.bg-colour3{
+    background: linear-gradient(white, white 50%, blue 50%, rgb(3, 3, 77) 50%);
+    background-size: 100% 200%;
+    transition: background 1s;
+}
+.bg-colour3:hover{
+    background-position: 0% -100%;
+   color: white;
+}
+.bg-colour3>h2{
+    
+    padding-left: 40px;
+    font-size: 25px;
+}
+.bg-colour3>img{
+    width: 340px;
+    padding-left: 15px;
+    height: 200px;
+}
+/* .btn>button{
+    border: none;
+    border: solid 1px green;
+    margin-top: 8%;
+    margin-left: 45%;
+    height: 50px;
+    width: 50px;
+    border-radius: 90px;
+    font-weight: 900;
+    color: blue;
+} */
+.btnright{
+    margin-top: 120px;
+    margin-left: 550px;
+    height: 50px;
+    width: 50px;
+    border: none;
+    border: solid 2px black;
+    border-radius: 50px;
+    font-weight: 900px;
+    color: black;
+    }
+    .btnright:hover{
+        background-color: red;
+    }
+.btnleft{
+    margin-left: 20px;
+    height: 50px;
+    width: 50px;
+    border: none;
+    border: solid 2px black;
+    border-radius: 50px;
+    font-weight: 900px;
+    color: black;
+}
+.btnleft:hover{
+    background-color: red;
+}
+.bg3{
+    background-image: url(../bg-1.jpg);
+    height: 900px;
+    background-repeat: no-repeat;
+    margin-top: -60%;
+}
+.bg4{
+    
+    background-color: whitesmoke;
+    width: 603px;
+    height: 950px;
+    margin-left: 30px;
+    margin-top: -922px;
+}
+.bg4>h4{
+    font-style: oblique;
+    padding-top: 90px;
+    padding-left: 95px;
+    color: red;
+}
+.bg4>h1{
+    font-style: oblique;
+    padding-left: 45px;
+    font-size: 52px;
+    margin-top: -7px;
+    color: black;
+}
+.bg4>p{
+    font-family: 'Dancing Script', cursive;
+    padding-left: 55px;
+    font-size: 17px;
+    color: black;
+    margin-top: -5px;
+}
+.bg4>h2{
+font-family: 'Dancing Script', cursive;
+margin-top: -22px;
+padding-left: 90px;
+font-size: 17px;
+color: black;
+    
+}
+.bg4>h3{
+    font-family: 'Dancing Script', cursive;
+    margin-top: -22px;
+    padding-left: 90px;
+    font-size: 17px;
+    color: black;
+}
+.bg4>h5{
+    font-family: 'Dancing Script', cursive;
+    margin-top: -22px;
+    padding-left: 90px;
+    font-size: 17px;
+    color: black;
+}
+.bg4>h6{
+    font-family: 'Dancing Script', cursive;
+   margin-top: -22px;
+    padding-left: 90px;
+    font-size: 17px;
+    color: black;
+}
+.percentage>h2{
+    font-style: oblique;
+    margin-top: -31%;
+    padding-left: 75px;
+    color: black;
+    
+}
+.progress1{
+    background: #959595;
+    width: 450px;
+    height: 15px;
+    border-radius: 5px;
+    margin-top: -5px;
+    margin-left: 80px;
+}
+.progress1 div{
+    height: 15px;
+    width: 0%;
+    border-radius: 5px;
+    animation: container 1s linear forwards;
+    
+}
+.progress1 div span{
+    float: right;
+    
+    margin-right: -px;
+    color: black;
+    font-size: 15px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.container{
+    background-color: red;
+    animation: container 1s linear forwards;
+}
+@keyframes container{
+    100%{
+        width: 96%;
+    }
+}
+.progress2{
+    background: #959595;
+    width: 450px;
+    height: 15px;
+    border-radius: 5px;
+    margin-top: -5px;
+    margin-left: 80px;
+}
+.progress2 div{
+    height: 15px;
+    width: 0%;
+    border-radius: 5px;
+    animation: container2 1s linear forwards;
+    
+}
+.progress2 div span{
+    float: right;
+    
+    margin-right: -px;
+    color: black;
+    font-size: 15px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.container2{
+    background-color: red;
+    animation: container2 1s linear forwards;
+}
+@keyframes container2{
+    100%{
+        width: 82%;
+    }
+}
+.percentage>h1{
+    font-style: oblique;
+    padding-left: 75px;
+    font-size: 25px;
+    padding-top: 10px;
+    color: black;
+}
+.percentage>img{
+    padding-top: 55px;
+    padding-left: 75px;
+}
+.percentage>h5{
+    font-style: oblique;
+    padding-left: 17%;
+    margin-top: -6%;
+    color: red;
+}
+.percentage>h3{
+    font-style: oblique;
+    padding-left: 17%;
+    font-size: 33px;
+    margin-top: -1%;
+}
+#check5{
+    padding-left: 50px;
+    padding-top: 25px;
+    color: red;
+}
+#check6{
+    color: red;
+    padding-left: 50px;
+    padding-top: 15px;
+}
+#check7{
+    color: red;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+#check8{
+    color: red;
+    padding-left: 50px;
+    
+}
+
+.bg5{
+    width: 585px;
+    background: linear-gradient(rgba(75, 198, 243, 0.929), rgba(3, 3, 108, 0.929)), url(../asset/image-2.jpg);
+    height: 519px;
+    margin-left: 633px;
+    margin-top: -442px;
+}
+.bg5>h5{
+    font-style: oblique;
+    padding-left: 100px;
+    padding-top: 80px;
+    color: red;
+}
+.bg5>h1{
+    font-style: oblique;
+    padding-left: 58px;
+    margin-top: -9px;
+    font-size: 40px;
+    color: white;
+
+}
+.bg5>p{
+    font-style: oblique;
+    padding-left: 58px;
+    font-size: 18px;
+    color: whitesmoke;
+}
+.bg5>a{
+    font-style: oblique;
+    margin-left: 58px;
+    margin-top: 70px;
+text-decoration: none;
+color: white;
+
+border: none;
+margin-top: 10px;
+
+}
+.bg5>a:hover{
+    background-color: red;
+}
+.bg6{
+
+    height: 400px;
+    background-color: rgb(1, 1, 59);
+    margin-top: 130px;
+    padding-top: 150px;
+}
+input{
+    background-color: red;
+    margin-left: 80%;
+    height: 50px;
+    width: 200px;
+    border-radius: 5px;
+    margin-top: -10px;
+    border: none;
+    }
+    input:hover{
+        background-color: rgb(2, 2, 45);
+    }
+.work>h4{
+     font-style: oblique;
+   color: red;
+   margin-top: -6%;
+   margin-left: 80px;
+}
+.work>h1{
+    font-style: oblique;
+    color: white;
+    padding-left: 40px;
+    font-size: 45px;
+    margin-top: -10px;
+}
+.img20{
+    width: 385px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-top: 30px;
+    
+}
+.img20>.overlay{
+    top: 0;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    height: 0;
+    transition: .3s;
+    background-color: blue;
+}
+.img20:hover .overlay{
+height: 100%;
+width: 0;
+}
+.img21{
+    width: 385px;
+    border-radius: 10px;
+    margin-left: 25px;
+}
+.img22{
+    width: 385px;
+    border-radius: 10px;
+    margin-left: 25px;
+}
+.bg7{
+    margin-top: -150px;
+    height: 1000px;
+    background-color: whitesmoke;
+}
+.text-stroke1{ 
+    -webkit-text-stroke-width: 0.5px;
+    
+    -webkit-text-stroke-color: wheat;
+     background-repeat: no-repeat;
+    color: transparent;
+
+    }
+    
+    .good1{
+        font-size: 100px;
+        padding-top: 100px;
+        }
+     .roller{
+        padding-top: 250px;
+        margin-left: 40px;
+     }
+     .roller>h4{
+        padding-left: 44%;
+     margin-top: -490px;
+     font-style: oblique;
+     color: red;
+     }
+     .roller>h1{
+        padding-left: 480px;
+        font-size: 50px;
+        font-style: oblique;
+        margin-top: -10px;
+     }
+     .roller>p{
+        font-style: oblique;
+        padding-left: 480px;
+        font-size: 19px;
+     }
+    .img25{
+        padding-left: 480px;
+        height: 70px;
+        padding-top: 60px;
+        }
+        .roller>h2{
+            font-style: oblique;
+            padding-left: 560px;
+            margin-top: -60px;
+        }
+        .roller>h3{
+            font-style: oblique;
+            padding-left: 480px;
+        }
+        .img26{
+            position: absolute;
+            height: 70px;
+            padding-left: 67%;
+            margin-top: -150px;
+        }
+        .roller>h5{
+            padding-left: 77%;
+            margin-top: -140px;
+            font-size: 21px;
+            
+        }
+            .roller>h6{
+            font-style: oblique;
+            margin-top: -10px;
+            padding-left: 71%;
+            font-size: 18px;
+            
+
+        }
+        .bg8{
+            
+            margin-top: -130px;
+            background-image: url(../asset/bg-2.jpg);
+            height: 700px;
+    background-size: cover;
+    background-repeat: no-repeat;
+        }
+ 
+
+.bg8>p{
+    font-style: oblique;
+color: brown;
+padding-top: 110px;
+padding-left: 95px;
+}
+.bg8>h1{
+    padding-left: 40px;
+    font-size: 50px;
+    font-style: oblique;
+    color: white;
+    margin-top: -10px;
+} 
+.shape10{
+     border-radius: 12px;
+    margin-top: -225px;
+    margin-left: 35%;
+    width: 350px;
+    height: 280px;
+    background-color: whitesmoke;
+    border: 1px solid whitesmoke;
+}
+.shape11{
+    position: absolute;
+   width: 40px;
+   height: 40px; 
+   background-color: whitesmoke;
+   border: 1px solid whitesmoke;
+   transform: rotate(45deg);
+   margin-top: 250px;
+   margin-left: 50px;
+
+}
+.shape10>h4{
+    font-style: oblique;
+    color: rgb(122, 120, 120);
+padding-top: 80px;
+padding-left: 40px;
+font-size: 19px;
+}
+.img70{
+    position: absolute;
+    height: 40px;
+    margin-top: -20%;
+    margin-left: 450px;
+    height: 50px;
+    
+}
+.img80{
+margin-top: 80px;
+border-radius: 40px;
+margin-left: 40px;
+}
+.albert>h3{
+    font-style: oblique;
+    padding-left: 140px;
+    margin-top: -65px;
+    color: white;
+}
+.albert>h4{
+    font-size: 19px;
+    font-style: oblique;
+    color: red;
+    padding-left: 130px;
+    margin-top: -5px;
+}
+.shape12{
+    border-radius: 12px;
+    margin-left: 68%;
+    margin-top: -280px;
+    width: 350px;
+    height: 280px;
+    background-color: whitesmoke;
+    border: 1px solid whitesmoke;
+}
+.shape13{
+    position: absolute;
+    width: 40px;
+    height: 40px; 
+    background-color: whitesmoke;
+    border: 1px solid whitesmoke;
+    transform: rotate(45deg);
+   margin-top: 250px;
+   margin-left: 50px;
+}
+.shape12>p{
+    font-style: oblique;
+    color: rgb(122, 120, 120);
+padding-top: 80px;
+padding-left: 40px;
+font-size: 19px;
+}
+.img90{
+    position: absolute;
+    height: 50px;
+    margin-top: -16%;
+    margin-left: 15px;
+}
+.img91{
+    margin-top: 95px;
+    border-radius: 50px;
+    margin-left: 40px;
+}
+.adam>h3{
+    font-style: oblique;
+    color: white;
+    padding-left: 140px;
+    margin-top: -70px;
+}
+.adam>h4{
+    font-style: oblique;
+    padding-left: 140px;
+    color: red;
+    font-size: 19px;
+    margin-top: -5px;
+}
+.bg9{
+    height: 900px;
+    background-color:  white;
+    margin-top: -20px;
+    }
+    .bg9>h4{
+        font-style: oblique;
+        padding-top: 110px;
+        padding-left: 95px;
+        color: brown;
+    }
+    .bg9>h1{
+        font-style: oblique;
+        padding-left: 52px;
+        font-size: 40px;
+        margin-top: -10px;
+    }
+    .bg9>p{
+        font-style: oblique;
+        padding-left: 60%;
+        font-size: 17px;
+        margin-top: -65px;
+    }
+    .img27{
+        margin-left: 52px;
+        margin-top: 25px;
+    }
+    
+    .img27{
+        background: linear-gradient(white, white 50%, blue 50%, rgb(3, 3, 77) 50%);
+        background-size: 100% 200%;
+        transition: background 1s;
+    }
+    .img27:hover{
+        background-position: 0% -100%;
+        
+       color: white;
+    }
+    
+    .img28{
+     margin-left: 25px;
+    }
+    .img29{
+        margin-left: 25px;
+    }
+    .box2{
+         position: relative;
+        width: 350px;
+        height: 270px;
+        background-color: white;
+        margin-top: -65px;
+        margin-left: 72px;
+    }
+    .box2:hover{
+    background-color: whitesmoke;
+    }
+    .box3{
+        position: relative;
+        width: 80px;
+        height: 80px;
+        background-color: red;
+        border-radius: 40px;
+        margin-left: 315px;
+        margin-top: -320px;
+    }
+    .box3>h1{
+        font-size: 20px;
+        padding-top: 15px;
+        padding-left: 25px;
+        color: white;
+    }
+    .box2>h4{
+        font-style: oblique;
+        padding-top: 30px;
+        padding-left: 30px;
+        letter-spacing: 3px;
+    }
+    .box2>h2{
+        font-style: oblique;
+        padding-left: 30px;
+    }
+    .box2>a>button{
+        margin-left: 50px;
+        margin-top: 50px;
+        height: 40px;
+        border-radius: 40px;
+        color: black;
+        border: none;
+        background-color:whitesmoke;
+    }
+    .box2>a>button:hover{
+        background-color: red;
+       
+    }
+      
+    .box4{
+        position: relative;
+        width: 351px;
+        height: 270px;
+        background-color: white;
+        margin-left: 470px;
+        margin-top: -63px;
+    }
+    .h10{
+        font-style: oblique;
+        padding-top: 30px;
+        padding-left: 30px;
+        letter-spacing: 3px;
+    }
+    .box4:hover{
+        background-color: whitesmoke;
+    }
+    .box4>a>button{
+        margin-left: 50px;
+        margin-top: 50px;
+        height: 40px;
+        border-radius: 40px;
+        color: black;
+        border: none;
+        background-color:whitesmoke;
+    }
+    .box4>a>button:hover{
+        background-color: red; 
+       
+    }
+    .box5{
+         position: relative;
+        width: 80px;
+        height: 80px;
+        background-color: red;
+        border-radius: 40px;
+         margin-left: 715px;
+        margin-top: -320px;  
+    }
+    .h1{
+         color: white;
+        font-size: 20px;
+        padding-top: 18px;
+        padding-left: 25px;
+    }
+    
+    .h2{
+        font-style: oblique;
+        padding-left: 30px;
+    }
+    .box6{
+        position: relative;
+        width: 351px;
+        height: 270px;
+        background-color: white;
+        margin-left: 870px;
+        margin-top: -63px;
+    }
+    .box6:hover{
+        background-color: whitesmoke;
+    }
+    .box6>a>button{
+        margin-left: 50px;
+        margin-top: 50px;
+        height: 40px;
+        border-radius: 40px;
+        color: black;
+        border: none;
+        background-color:whitesmoke;
+    }
+    .box6>a>button:hover{
+        background-color: red;
+       
+    }
+    .box7{
+        position: relative;
+        width: 80px;
+        height: 80px;
+        background-color: red;
+        border-radius: 40px;
+        margin-left: 89%;
+        margin-top: -320px;
+    }
+    .h7{
+        font-style: oblique;
+        padding-top: 30px;
+        padding-left: 30px;
+        letter-spacing: 3px;
+    }
+    .h8{
+        color: white;
+        font-size: 20px;
+        padding-top: 18px;
+        padding-left: 25px;
+    }
+    .h9{
+        font-style: oblique;
+        padding-left: 30px;
+    }
+    .bg10{
+        background-color: white;
+        height: 150px;
+    }
+     .bg10>h5{
+        font-style: oblique;
+        font-size: 15px;
+      color: red;
+      margin-top: -80px;
+      margin-left: 490px;
+      
+     }
+     .hr3>hr{
+        width: 36%;
+    margin-left: 10px;
+    margin-top: -34px;
+     }
+     .h4{
+        width: 38%;
+        margin-left: 59%;
+        margin-top: -49px;
+     }
+    .img50{
+        overflow: hidden; 
+        margin-top: 50px;
+        margin-left: 40px;
+    }
+    .img50{
+        transition: 0.5s all ease-in-out;
+    }
+    .img50:hover{
+        transform: scale(1.3);
+    }
+    .img51{
+        overflow: hidden;
+        margin-left: 50px;
+    }
+    .img51{
+        transition: 0.5s all ease-in-out;
+    }
+    .img51:hover{
+        transform: scale(1.3);
+    }
+    .img60{
+        overflow: hidden;
+        margin-left: 80px;
+    }
+    .img60{
+        transition: 0.5s all ease-in-out;
+    }
+    .img60:hover{
+        transform: scale(1.3);
+    }
+    .img53{
+        overflow: hidden;
+    margin-left: 90px;
+    }
+    .img53{
+        transition: 0.5s all ease-in-out;
+    }
+    .img53:hover{
+        transform: scale(1.3);
+    }
+    .img54{
+        margin-left: 110px;
+    }
+    .img54:hover{
+        transition: 0.5s all ease-in-out;
+    }
+    .img54:hover{
+        transform: scale(1.3);
+    }
+    .map{
+        width: 100%;
+        height: 100vh;
+    }
+    iframe{
+        width: 100%;
+        height: 350px;
+        filter: invert(100%);
+    }
+    .map-box{
+        position: relative;
+     height: 350px;
+     width: 350px;
+     margin-top: -374px;
+     margin-left: 68%;
+     background-color: rgb(8, 112, 164);
+    }
+    .map-box>h2{
+        font-style: oblique;
+     color: white;
+     padding-top: 70px;
+     padding-left: 50px;
+    }
+    .map-box>h3{
+        font-style: oblique;
+        padding-left: 50px;
+        padding-top: 25px;
+        color: white;
+    }
+    .map-box>h4{
+        margin-top: -9px;
+        padding-left: 50px;
+        font-style: oblique;
+        color: white;
+        font-size: 20px;
+    }
+   .map-box>h5{
+    font-style: oblique;
+    color: white;
+    font-size: 20px;
+    padding-left: 50px;
+   }
+   .bg11{
+
+    position: absolute;
+    position: relative;
+    height: 500px;
+    background-color: rgba(1, 3, 40, 0.952);
+    margin-top: -253px;
+   }
+   .img55{
+    position: absolute;
+    padding-top: 30px;
+    margin-left: 50px;
+    height: 40px;
+   }
+   .img55>h3{
+    font-style: oblique;
+    color: white;
+    padding-left: 50px;
+    margin-top: -45px;
+   }
+   
+   .img55>h4{
+    font-style: oblique;
+    font-size: 18px;
+    color: white;
+   padding-left: 50px;
+   margin-top: -10px;
+   }
+   .vl1{
+    position: absolute;
+    margin-left: 130%;
+    margin-top: -36%;
+    height: 100px;
+    border-left: 1px solid white;
+    
+   }
+   .hr{
+    width: 460%;
+    margin-left: -50px;
+   }
+   .img56{
+    position: absolute;
+    padding-left: 40%;
+    padding-top: 40px;
+   }
+   
+   .img56>h3{
+    font-style: oblique;
+    margin-left: 50px;
+    margin-top: -40px;
+    color: white;
+   }
+   .img56>h4{
+    font-style: oblique;
+    padding-left: 50px;
+    color: white;
+    margin-top: -10px;
+    font-size: 20px;
+   }
+   .vl2{
+    position: absolute;
+    height: 100px;
+    margin-left: 45%;
+    margin-top: -103px;
+    border-left: 1px solid white;
+   }
+   .img57{
+    position: absolute;
+    margin-left: 70%;
+    margin-top: 40px;
+   }
+   .img57>h2{
+    font-style: oblique;
+    padding-left: 55px;
+     margin-top: -50px;
+     color: white;
+   }
+   .img57>h3{
+    color: white;
+    padding-left: 50px;
+    margin-top: -10px;
+    font-size: 20px;
+   }
+   .photo{
+    position: absolute;
+   }
+   .photo>img{
+    margin-top: 150px;
+    margin-left: 50px;
+   }
+   .photo>p{
+    font-style: oblique;
+    color: rgb(156, 155, 155);
+    padding-top: 10px;
+    padding-left: 50px;
+    font-size: 20px;
+    font-weight: 50px;
+   }
+   .usefull{
+    font-style: oblique;
+    position: absolute;
+    position: absolute;
+    padding-left: 32%;
+    padding-top: 130px;
+    color: white;
+    font-size: 20px;
+   }
+   .usefull>a{
+    
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+   }
+   .over-service{
+    font-style: oblique;
+    position: absolute;
+    margin-left: 55%;
+    color: white;
+    font-size: 20px;
+    padding-top: 130px;
+   }
+   .over-service>a{
+   text-decoration: none;
+   text-decoration: none;
+    color: white;
+    font-size: 17px;
+   }
+   .Newsletter{
+    position: absolute;
+    font-style: oblique;
+    margin-left: 75%;
+    padding-top: 130px;
+    color: white;
+    font-size: 20px;
+   }
+   .Newsletter>input{
+    color: white;
+    border: 1px;
+    margin-left: -1px;
+    width:220px;
+    margin-top: 5px;
+    height: 40px;
+    background-color: rgb(2, 2, 56);
+    border: color red;
+   }
+   .check{
+    position: relative;
+    margin-left: 220px;
+    border-radius: 3px;
+    width: 50px;
+    height: 48px;
+    background-color: red;
+    margin-top: -45px;
+
+   }
+   .check1{
+    height: 40px;
+   padding-top: 10px;
+   padding-left: 15px;
+  
+   }
+   .img93{
+    height: 30px;
+    border: none;
+    border-radius: 40px;
+    margin-top: 20px;
+   }
+   .img93:hover{
+    background-color: red;
+   }
+   .img94{
+    height: 30px;
+    border-radius: 40px;
+    margin-left: 5px;
+   }
+   .img95{
+    height: 30px;
+    border-radius: 40px;
+    margin-left: 5px;
+   }
+   .img96{
+     height: 32px;
+    border-radius: 40px;
+    margin-left: 5px;
+   }
+   .hr2{
+    position: absolute;
+    width: 90%;
+    color: red;
+    margin-top: -7%;
+    margin-left: 50px;
+   }
+   .end{
+    position: absolute;
+    color: white;
+    margin-top: 430px;
+    margin-left: 50px;
+   }
